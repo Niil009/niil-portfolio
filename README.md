@@ -1,4 +1,4 @@
-# portfolio-ai — Dibya Ranjan Sahu
+# niil-portfolio — Dibya Ranjan Sahu
 
 Personal portfolio for a mobile-first full-stack engineer. Dark, single-accent "technical dossier" aesthetic with interactive 3D.
 
