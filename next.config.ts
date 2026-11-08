@@ -1,9 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  /* Static portfolio — component-level caching caused stale dev renders, and
+     isn't needed here, so it's disabled. */
   turbopack: {
     rules: {
       "*.css": {
